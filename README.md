@@ -27,4 +27,10 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 [機械学習入門授業課題 信用情報の学習](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/Week4/Week4_kadai.ipynb)  
 
 ## Term1
-[Sprint 機械学習スクラッチ入門](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Sprint_machine_learning.ipynb)  
+[Sprint1 機械学習スクラッチ入門](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Sprint_machine_learning.ipynb)  
+[Sprint2 機械学習フロー](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Sprint_flow.ipynb)  
+[Sprint3 機械学習スクラッチ 線形回帰](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Splint_Linear.ipynb)  
+[Sprint4 機械学習スクラッチ ロジスティック回帰](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Splint_rogistic.ipynb)  
+[Sprint5 機械学習スクラッチ SVM](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Sprint_SVM.ipynb)  
+[Sprint6 機械学習スクラッチ 決定木](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Sprint_tree.ipynb)
+[Sprint7 機械学習スクラッチ クラスタリング](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term1/Sprint/Sprint%20_K-means.ipynb)
