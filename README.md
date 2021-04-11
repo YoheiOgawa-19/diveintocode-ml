@@ -43,7 +43,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 [Sprint12 深層学習スクラッチ 畳み込みニューラルネットワーク2](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term2/Sprint/Scratch_CNN2.ipynb)  
 [Sprint13 ディープラーニングフレームワーク1](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term2/Sprint/Deeplearning_framework.ipynb)  
 [Sprint14 ディープラーニングフレームワーク2](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term2/Sprint/Deeplearning_framework2.ipynb)  
-[Sprint15 論文読解入門](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term2/Sprint/Spriint_paper.ipynb)
+[Sprint15 論文読解入門](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term2/Sprint/Spriint_paper.ipynb)  
 [Sprint16 論文紹介](https://speakerdeck.com/ogawayohei/lstmtozui-xin-falselun-wen-shao-jie)  
 [Sprint17 公開されている実装を動かす](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term2/Sprint/Sprint_Running_the_published_implementation.ipynb)  
 [Sprint18 データセット作成](https://github.com/YoheiOgawa-19/diveintocode-ml/blob/master/term2/Sprint/Sprin_creat_datasets.ipynb)  
